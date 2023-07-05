@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+
+}
+.header{
+    height: 5rem;
+    color: bisque;
+    font-size: 4rem;
+    background-color: rgb(65, 58, 50);
+}
+section{
+    
+    margin: 1rem;
+    padding: 1rem;
+    display: flex;
+    background-color: burlywood;
+}
+p.section{
+    display: block;
+    color: antiquewhite;
+    margin: .5rem;
+    padding: 2rem;
+    border: none;
+    border-radius: 1.5rem;
+    background-color: black;
+}
